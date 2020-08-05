@@ -1,0 +1,7 @@
+C:\Users\Roman Nice\source\repos\FizzBuzz_ForBirds\FizzBuzz_ForBirds\bin\Debug\FizzBuzz_ForBirds.exe.config
+C:\Users\Roman Nice\source\repos\FizzBuzz_ForBirds\FizzBuzz_ForBirds\bin\Debug\FizzBuzz_ForBirds.exe
+C:\Users\Roman Nice\source\repos\FizzBuzz_ForBirds\FizzBuzz_ForBirds\bin\Debug\FizzBuzz_ForBirds.pdb
+C:\Users\Roman Nice\source\repos\FizzBuzz_ForBirds\FizzBuzz_ForBirds\obj\Debug\FizzBuzz_ForBirds.csprojAssemblyReference.cache
+C:\Users\Roman Nice\source\repos\FizzBuzz_ForBirds\FizzBuzz_ForBirds\obj\Debug\FizzBuzz_ForBirds.csproj.CoreCompileInputs.cache
+C:\Users\Roman Nice\source\repos\FizzBuzz_ForBirds\FizzBuzz_ForBirds\obj\Debug\FizzBuzz_ForBirds.exe
+C:\Users\Roman Nice\source\repos\FizzBuzz_ForBirds\FizzBuzz_ForBirds\obj\Debug\FizzBuzz_ForBirds.pdb
